@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w3-x",
+				"w3-xxlarge"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 18737,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/SYNC/CODE/HTML5/PROJECTS/My Blogs/Tech Geeks Blog/index.html",
+			"settings":
+			{
+				"buffer_size": 21929,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/SYNC/CODE/HTML5/WORKS/Hotel.html",
+			"settings":
+			{
+				"buffer_size": 11794,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/SYNC/CODE/HTML5/PROJECTS/LOG IN FORM/3/LOG IN.html",
+			"settings":
+			{
+				"buffer_size": 4053,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "w3.css",
+			"settings":
+			{
+				"buffer_size": 23060,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/* W3.CSS 4.10 February 2018 by Jan Egil and Borge"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "brow",
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"se",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"",
+				"Set Syntax: CSS"
+			],
+			[
+				"me",
+				"UI: Select Theme"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 274.0,
+		"history":
+		[
+			"w3.css"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/SYNC/CODE/HTML5/WORKS/Restaurant.html",
+		"/C/Program Files/SYNC/CODE/HTML5/PROJECTS/Portfolio Website/w3.css",
+		"/C/Program Files/SYNC/CODE/HTML5/PROJECTS/Portfolio Website/null.html",
+		"/C/Windows.old/Program Files/SYNC/CODE/HTML5/PROJECTS/Portfolio Website/W33.css",
+		"/C/Program Files/SYNC/CODE/HTML5/PROJECTS/Portfolio Website/hi.html",
+		"/C/Windows.old/Program Files/SYNC/CODE/HTML5/PROJECTS/Portfolio Website/index.html",
+		"/C/Windows.old/Program Files/SYNC/CODE/HTML5/PROJECTS/My Blogs/Tech Geeks Blog/w3.css",
+		"/C/Windows.old/Program Files/SYNC/CODE/HTML5/PROJECTS/My Blogs/Tech Geeks Blog/index.html"
+	],
+	"find":
+	{
+		"height": 151.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3518,
+								3518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1316.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files/SYNC/CODE/HTML5/PROJECTS/My Blogs/Tech Geeks Blog/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files/SYNC/CODE/HTML5/WORKS/Hotel.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Program Files/SYNC/CODE/HTML5/PROJECTS/LOG IN FORM/3/LOG IN.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								969,
+								969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "w3.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21721,
+								21721
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* W3.CSS 4.10 February 2018 by Jan Egil and Borge",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3139.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 151.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Portfolio Website.sublime-project",
+	"replace":
+	{
+		"height": 294.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Windows.old\\Program Files\\SYNC\\CODE\\HTML5\\PROJECTS\\Portfolio Website\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
